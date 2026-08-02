@@ -1,0 +1,30 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment variables and credentials
+.env
+service-account*.json
+application_default_credentials.json
+
+# Source and generated data
+data/source/*
+data/raw/*
+data/batches/*
+data/reference/*
+data/invalid/*
+data/processed/*
+
+# Generated artifacts
+artifacts/profiling/*
+artifacts/dashboard/*
+
+# Editors and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
