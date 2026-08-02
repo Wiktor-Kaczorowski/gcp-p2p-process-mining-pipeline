@@ -1,0 +1,43 @@
+activity,event_count,event_percentage
+Record Goods Receipt,314097,19.6812
+Create Purchase Order Item,251734,15.7736
+Record Invoice Receipt,228760,14.334
+Vendor creates invoice,219919,13.7801
+Clear Invoice,194393,12.1806
+Record Service Entry Sheet,164975,10.3373
+Remove Payment Block,57136,3.5801
+Create Purchase Requisition Item,46592,2.9194
+Receive Order Confirmation,32065,2.0092
+Change Quantity,21449,1.344
+Change Price,12423,0.7784
+Delete Purchase Order Item,8875,0.5561
+Change Approval for Purchase Order,7541,0.4725
+Cancel Invoice Receipt,7096,0.4446
+Vendor creates debit memo,6255,0.3919
+Change Delivery Indicator,3289,0.2061
+Cancel Goods Receipt,3096,0.194
+SRM: In Transfer to Execution Syst.,1765,0.1106
+SRM: Created,1628,0.102
+SRM: Complete,1628,0.102
+SRM: Awaiting Approval,1628,0.102
+SRM: Document Completed,1628,0.102
+SRM: Ordered,1628,0.102
+Release Purchase Order,1610,0.1009
+SRM: Change was Transmitted,1440,0.0902
+Reactivate Purchase Order Item,543,0.034
+Block Purchase Order Item,514,0.0322
+Cancel Subsequent Invoice,491,0.0308
+Release Purchase Requisition,467,0.0293
+Change Storage Location,415,0.026
+Update Order Confirmation,244,0.0153
+SRM: Deleted,188,0.0118
+Record Subsequent Invoice,167,0.0105
+Set Payment Block,124,0.0078
+SRM: Transfer Failed (E.Sys.),45,0.0028
+Change Currency,35,0.0022
+Change Final Invoice Indicator,11,0.0007
+SRM: Transaction Completed,8,0.0005
+Change payment term,7,0.0004
+SRM: Incomplete,6,0.0004
+SRM: Held,6,0.0004
+Change Rejection Indicator,2,0.0001

@@ -1,0 +1,47 @@
+{
+  "source_file": "BPI_Challenge_2019.xes",
+  "event_count": 1595923,
+  "column_count": 21,
+  "case_count": 251734,
+  "activity_count": 42,
+  "period_start": "1948-01-26T22:59:00+00:00",
+  "period_end": "2020-04-09T21:59:00+00:00",
+  "missing_case_id_count": 0,
+  "missing_activity_count": 0,
+  "invalid_timestamp_count": 0,
+  "events_per_case": {
+    "minimum": 1,
+    "median": 5.0,
+    "mean": 6.3397,
+    "maximum": 990
+  },
+  "case_duration_hours": {
+    "minimum": 0.0,
+    "median": 1537.06,
+    "mean": 1716.5887,
+    "maximum": 616093.15
+  },
+  "source_columns": [
+    "User",
+    "org:resource",
+    "concept:name",
+    "Cumulative net worth (EUR)",
+    "time:timestamp",
+    "case:Spend area text",
+    "case:Company",
+    "case:Document Type",
+    "case:Sub spend area text",
+    "case:Purchasing Document",
+    "case:Purch. Doc. Category name",
+    "case:Vendor",
+    "case:Item Type",
+    "case:Item Category",
+    "case:Spend classification text",
+    "case:Source",
+    "case:Name",
+    "case:GR-Based Inv. Verif.",
+    "case:Item",
+    "case:concept:name",
+    "case:Goods Receipt"
+  ]
+}

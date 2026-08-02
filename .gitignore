@@ -20,7 +20,7 @@ data/invalid/*
 data/processed/*
 
 # Generated artifacts
-artifacts/profiling/*
+artifacts/profiling/*.parquet
 artifacts/dashboard/*
 
 # Editors and operating system

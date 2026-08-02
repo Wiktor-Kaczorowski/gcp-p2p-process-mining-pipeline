@@ -22,10 +22,20 @@ BPI Challenge 2019 → Python → GCS → BigQuery → Looker Studio
 ## Project status
 
 - [x] Local environment configuration
-- [ ] Source-data profiling
+- [X] Source-data profiling
 - [ ] Event-log standardization
 - [ ] Batch generation
 - [ ] Google Cloud ingestion
 - [ ] Data-quality framework
 - [ ] Analytical model
 - [ ] Dashboard
+
+## Data source
+
+The project uses the anonymized BPI Challenge 2019 event log.
+
+The event log represents a real-life Purchase-to-Pay process and contains
+activities related to purchase orders, goods receipts, invoices and payments.
+
+The original XES file is not stored in this repository. Profiling reports
+describing the source schema are available in `artifacts/profiling`.

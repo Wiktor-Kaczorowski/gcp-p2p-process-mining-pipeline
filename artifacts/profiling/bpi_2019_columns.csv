@@ -1,0 +1,22 @@
+column_name,data_type,null_count,null_percentage,unique_value_count
+User,str,0,0.0,628
+org:resource,str,0,0.0,628
+concept:name,str,0,0.0,42
+Cumulative net worth (EUR),float64,0,0.0,25221
+time:timestamp,"datetime64[us, UTC]",0,0.0,167432
+case:Spend area text,str,0,0.0,21
+case:Company,str,0,0.0,4
+case:Document Type,str,0,0.0,3
+case:Sub spend area text,str,0,0.0,136
+case:Purchasing Document,str,0,0.0,76349
+case:Purch. Doc. Category name,str,0,0.0,1
+case:Vendor,str,0,0.0,1975
+case:Item Type,str,0,0.0,6
+case:Item Category,str,0,0.0,4
+case:Spend classification text,str,0,0.0,4
+case:Source,str,0,0.0,1
+case:Name,str,0,0.0,1899
+case:GR-Based Inv. Verif.,bool,0,0.0,2
+case:Item,str,0,0.0,490
+case:concept:name,str,0,0.0,251734
+case:Goods Receipt,bool,0,0.0,2
