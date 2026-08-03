@@ -1,0 +1,7 @@
+metric,value
+row_count,1595923
+missing_user_count,0
+missing_resource_count,0
+equal_non_null_values,1595923
+unique_user_values,628
+unique_resource_values,628

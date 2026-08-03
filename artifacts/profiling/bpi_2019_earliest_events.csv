@@ -1,0 +1,201 @@
+case:concept:name,concept:name,time:timestamp,User,org:resource,case:Purchasing Document,case:Item,case:Document Type,case:Vendor,case:Company,case:Source
+4507004931_00010,Vendor creates invoice,1948-01-26 22:59:00+00:00,NONE,NONE,4507004931,00010,Standard PO,vendorID_0670,companyID_0000,sourceSystemID_0000
+4507004931_00020,Vendor creates debit memo,1948-01-26 22:59:00+00:00,NONE,NONE,4507004931,00020,Standard PO,vendorID_0670,companyID_0000,sourceSystemID_0000
+4507004931_00030,Vendor creates invoice,1948-01-26 22:59:00+00:00,NONE,NONE,4507004931,00030,Standard PO,vendorID_0670,companyID_0000,sourceSystemID_0000
+4507004931_00030,Vendor creates debit memo,1948-01-26 22:59:00+00:00,NONE,NONE,4507004931,00030,Standard PO,vendorID_0670,companyID_0000,sourceSystemID_0000
+4507004931_00040,Vendor creates invoice,1948-01-26 22:59:00+00:00,NONE,NONE,4507004931,00040,Standard PO,vendorID_0670,companyID_0000,sourceSystemID_0000
+4507004931_00040,Vendor creates debit memo,1948-01-26 22:59:00+00:00,NONE,NONE,4507004931,00040,Standard PO,vendorID_0670,companyID_0000,sourceSystemID_0000
+4507004931_00050,Vendor creates invoice,1948-01-26 22:59:00+00:00,NONE,NONE,4507004931,00050,Standard PO,vendorID_0670,companyID_0000,sourceSystemID_0000
+4507004931_00050,Vendor creates debit memo,1948-01-26 22:59:00+00:00,NONE,NONE,4507004931,00050,Standard PO,vendorID_0670,companyID_0000,sourceSystemID_0000
+4507004931_00020,Vendor creates invoice,1948-01-26 22:59:00+00:00,NONE,NONE,4507004931,00020,Standard PO,vendorID_0670,companyID_0000,sourceSystemID_0000
+4507004931_00010,Vendor creates debit memo,1948-01-26 22:59:00+00:00,NONE,NONE,4507004931,00010,Standard PO,vendorID_0670,companyID_0000,sourceSystemID_0000
+4507014062_00050,Vendor creates invoice,1993-05-18 21:59:00+00:00,NONE,NONE,4507014062,00050,Standard PO,vendorID_0427,companyID_0000,sourceSystemID_0000
+4507014062_00070,Vendor creates invoice,1993-05-18 21:59:00+00:00,NONE,NONE,4507014062,00070,Standard PO,vendorID_0427,companyID_0000,sourceSystemID_0000
+4507014062_00040,Vendor creates invoice,1993-05-18 21:59:00+00:00,NONE,NONE,4507014062,00040,Standard PO,vendorID_0427,companyID_0000,sourceSystemID_0000
+4507014062_00080,Vendor creates invoice,1993-05-18 21:59:00+00:00,NONE,NONE,4507014062,00080,Standard PO,vendorID_0427,companyID_0000,sourceSystemID_0000
+4507014062_00090,Vendor creates invoice,1993-05-18 21:59:00+00:00,NONE,NONE,4507014062,00090,Standard PO,vendorID_0427,companyID_0000,sourceSystemID_0000
+4507014062_00020,Vendor creates invoice,1993-05-18 21:59:00+00:00,NONE,NONE,4507014062,00020,Standard PO,vendorID_0427,companyID_0000,sourceSystemID_0000
+4507014062_00030,Vendor creates invoice,1993-05-18 21:59:00+00:00,NONE,NONE,4507014062,00030,Standard PO,vendorID_0427,companyID_0000,sourceSystemID_0000
+4507014062_00060,Vendor creates invoice,1993-05-18 21:59:00+00:00,NONE,NONE,4507014062,00060,Standard PO,vendorID_0427,companyID_0000,sourceSystemID_0000
+4507014062_00010,Vendor creates invoice,1993-05-18 21:59:00+00:00,NONE,NONE,4507014062,00010,Standard PO,vendorID_0427,companyID_0000,sourceSystemID_0000
+4507000647_00010,Vendor creates debit memo,2001-01-23 22:59:00+00:00,NONE,NONE,4507000647,00010,Framework order,vendorID_0307,companyID_0000,sourceSystemID_0000
+4507009522_00010,Vendor creates debit memo,2001-02-19 22:59:00+00:00,NONE,NONE,4507009522,00010,Standard PO,vendorID_0336,companyID_0000,sourceSystemID_0000
+2000000097_00001,Vendor creates debit memo,2001-02-23 22:59:00+00:00,NONE,NONE,2000000097,00001,EC Purchase order,vendorID_0052,companyID_0000,sourceSystemID_0000
+4507013723_00010,Vendor creates invoice,2001-04-05 21:59:00+00:00,NONE,NONE,4507013723,00010,Standard PO,vendorID_1281,companyID_0000,sourceSystemID_0000
+4507013723_00010,Vendor creates debit memo,2001-04-05 21:59:00+00:00,NONE,NONE,4507013723,00010,Standard PO,vendorID_1281,companyID_0000,sourceSystemID_0000
+4507027474_00010,Vendor creates debit memo,2001-04-10 21:59:00+00:00,NONE,NONE,4507027474,00010,Framework order,vendorID_1442,companyID_0000,sourceSystemID_0000
+4507012794_00010,Vendor creates invoice,2001-04-12 21:59:00+00:00,NONE,NONE,4507012794,00010,Standard PO,vendorID_0175,companyID_0000,sourceSystemID_0000
+4507018023_00010,Vendor creates invoice,2001-04-12 21:59:00+00:00,NONE,NONE,4507018023,00010,Standard PO,vendorID_0175,companyID_0000,sourceSystemID_0000
+4507012794_00010,Vendor creates debit memo,2001-04-12 21:59:00+00:00,NONE,NONE,4507012794,00010,Standard PO,vendorID_0175,companyID_0000,sourceSystemID_0000
+4507017103_00030,Vendor creates debit memo,2001-04-24 21:59:00+00:00,NONE,NONE,4507017103,00030,Standard PO,vendorID_0167,companyID_0000,sourceSystemID_0000
+4507017103_00030,Vendor creates invoice,2001-04-24 21:59:00+00:00,NONE,NONE,4507017103,00030,Standard PO,vendorID_0167,companyID_0000,sourceSystemID_0000
+4507017103_00020,Vendor creates invoice,2001-04-24 21:59:00+00:00,NONE,NONE,4507017103,00020,Standard PO,vendorID_0167,companyID_0000,sourceSystemID_0000
+4507017103_00020,Vendor creates debit memo,2001-04-24 21:59:00+00:00,NONE,NONE,4507017103,00020,Standard PO,vendorID_0167,companyID_0000,sourceSystemID_0000
+4507017103_00010,Vendor creates invoice,2001-04-24 21:59:00+00:00,NONE,NONE,4507017103,00010,Standard PO,vendorID_0167,companyID_0000,sourceSystemID_0000
+4507017103_00010,Vendor creates debit memo,2001-04-24 21:59:00+00:00,NONE,NONE,4507017103,00010,Standard PO,vendorID_0167,companyID_0000,sourceSystemID_0000
+2000013555_00001,Vendor creates invoice,2001-04-27 21:59:00+00:00,NONE,NONE,2000013555,00001,EC Purchase order,vendorID_0089,companyID_0000,sourceSystemID_0000
+4507032025_00030,Vendor creates invoice,2001-06-08 21:59:00+00:00,NONE,NONE,4507032025,00030,Standard PO,vendorID_0634,companyID_0000,sourceSystemID_0000
+4507031332_00010,Vendor creates invoice,2001-06-14 21:59:00+00:00,NONE,NONE,4507031332,00010,Standard PO,vendorID_0253,companyID_0000,sourceSystemID_0000
+4507036538_00020,Vendor creates debit memo,2001-06-15 21:59:00+00:00,NONE,NONE,4507036538,00020,Standard PO,vendorID_0284,companyID_0000,sourceSystemID_0000
+4507030967_00010,Vendor creates debit memo,2001-06-30 21:59:00+00:00,NONE,NONE,4507030967,00010,Standard PO,vendorID_0315,companyID_0000,sourceSystemID_0000
+4507035116_00010,Vendor creates debit memo,2001-07-11 21:59:00+00:00,NONE,NONE,4507035116,00010,Standard PO,vendorID_0269,companyID_0000,sourceSystemID_0000
+4507035114_00010,Vendor creates debit memo,2001-07-16 21:59:00+00:00,NONE,NONE,4507035114,00010,Standard PO,vendorID_0269,companyID_0000,sourceSystemID_0000
+4507037128_00320,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00320,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00330,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00330,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00340,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00340,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00350,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00350,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00370,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00370,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00380,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00380,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00310,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00310,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00300,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00300,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00400,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00400,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00410,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00410,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00420,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00420,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00430,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00430,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00440,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00440,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00450,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00450,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00460,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00460,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00470,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00470,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00390,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00390,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00290,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00290,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00240,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00240,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00270,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00270,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00010,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00010,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00020,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00020,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00030,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00030,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00040,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00040,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00050,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00050,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00060,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00060,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00070,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00070,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00080,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00080,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00090,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00090,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00280,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00280,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00110,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00110,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00120,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00120,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00130,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00130,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00150,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00150,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00100,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00100,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00220,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00220,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00260,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00260,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00250,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00250,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00160,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00160,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00170,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00170,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00180,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00180,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00190,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00190,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00230,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00230,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00210,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00210,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507037128_00200,Vendor creates invoice,2008-06-19 21:59:00+00:00,NONE,NONE,4507037128,00200,Standard PO,vendorID_0236,companyID_0000,sourceSystemID_0000
+4507010301_00010,Vendor creates invoice,2015-03-08 22:59:00+00:00,NONE,NONE,4507010301,00010,Standard PO,vendorID_0386,companyID_0000,sourceSystemID_0000
+4507003966_00010,Vendor creates invoice,2015-11-30 22:59:00+00:00,NONE,NONE,4507003966,00010,Framework order,vendorID_0886,companyID_0000,sourceSystemID_0000
+4507003966_00010,Vendor creates invoice,2015-12-31 22:59:00+00:00,NONE,NONE,4507003966,00010,Framework order,vendorID_0886,companyID_0000,sourceSystemID_0000
+4507003966_00010,Vendor creates invoice,2016-01-30 22:59:00+00:00,NONE,NONE,4507003966,00010,Framework order,vendorID_0886,companyID_0000,sourceSystemID_0000
+4507003966_00010,Vendor creates invoice,2016-02-29 22:59:00+00:00,NONE,NONE,4507003966,00010,Framework order,vendorID_0886,companyID_0000,sourceSystemID_0000
+4507005725_00010,Vendor creates invoice,2016-04-04 21:59:00+00:00,NONE,NONE,4507005725,00010,Standard PO,vendorID_0789,companyID_0000,sourceSystemID_0000
+4507003966_00010,Vendor creates invoice,2016-04-30 21:59:00+00:00,NONE,NONE,4507003966,00010,Framework order,vendorID_0886,companyID_0000,sourceSystemID_0000
+2000000109_00001,Vendor creates invoice,2016-05-02 21:59:00+00:00,NONE,NONE,2000000109,00001,EC Purchase order,vendorID_0059,companyID_0000,sourceSystemID_0000
+4507003966_00010,Vendor creates invoice,2016-11-30 22:59:00+00:00,NONE,NONE,4507003966,00010,Framework order,vendorID_0886,companyID_0000,sourceSystemID_0000
+4507000846_00030,Vendor creates invoice,2017-01-05 22:59:00+00:00,NONE,NONE,4507000846,00030,Standard PO,vendorID_0108,companyID_0000,sourceSystemID_0000
+4507000846_00040,Vendor creates invoice,2017-01-05 22:59:00+00:00,NONE,NONE,4507000846,00040,Standard PO,vendorID_0108,companyID_0000,sourceSystemID_0000
+4507000846_00060,Vendor creates invoice,2017-01-05 22:59:00+00:00,NONE,NONE,4507000846,00060,Standard PO,vendorID_0108,companyID_0000,sourceSystemID_0000
+4507000846_00080,Vendor creates invoice,2017-01-05 22:59:00+00:00,NONE,NONE,4507000846,00080,Standard PO,vendorID_0108,companyID_0000,sourceSystemID_0000
+4507000846_00090,Vendor creates invoice,2017-01-05 22:59:00+00:00,NONE,NONE,4507000846,00090,Standard PO,vendorID_0108,companyID_0000,sourceSystemID_0000
+4507000846_00100,Vendor creates invoice,2017-01-05 22:59:00+00:00,NONE,NONE,4507000846,00100,Standard PO,vendorID_0108,companyID_0000,sourceSystemID_0000
+4507000846_00110,Vendor creates invoice,2017-01-05 22:59:00+00:00,NONE,NONE,4507000846,00110,Standard PO,vendorID_0108,companyID_0000,sourceSystemID_0000
+4507000846_00020,Vendor creates invoice,2017-01-05 22:59:00+00:00,NONE,NONE,4507000846,00020,Standard PO,vendorID_0108,companyID_0000,sourceSystemID_0000
+4507000846_00120,Vendor creates invoice,2017-01-05 22:59:00+00:00,NONE,NONE,4507000846,00120,Standard PO,vendorID_0108,companyID_0000,sourceSystemID_0000
+4507000846_00130,Vendor creates invoice,2017-01-05 22:59:00+00:00,NONE,NONE,4507000846,00130,Standard PO,vendorID_0108,companyID_0000,sourceSystemID_0000
+4507000846_00010,Vendor creates invoice,2017-01-05 22:59:00+00:00,NONE,NONE,4507000846,00010,Standard PO,vendorID_0108,companyID_0000,sourceSystemID_0000
+4508076155_00010,Vendor creates invoice,2017-01-25 22:59:00+00:00,NONE,NONE,4508076155,00010,Framework order,vendorID_1864,companyID_0003,sourceSystemID_0000
+2000000100_00001,Vendor creates invoice,2017-01-31 22:59:00+00:00,NONE,NONE,2000000100,00001,EC Purchase order,vendorID_0053,companyID_0000,sourceSystemID_0000
+4507012263_00010,Create Purchase Requisition Item,2017-02-03 23:00:00+00:00,user_329,user_329,4507012263,00010,Standard PO,vendorID_0548,companyID_0000,sourceSystemID_0000
+4507024629_00010,Create Purchase Requisition Item,2017-02-03 23:00:00+00:00,user_329,user_329,4507024629,00010,Standard PO,vendorID_0548,companyID_0000,sourceSystemID_0000
+4507009482_00010,Vendor creates invoice,2017-02-28 22:59:00+00:00,NONE,NONE,4507009482,00010,Standard PO,vendorID_0467,companyID_0000,sourceSystemID_0000
+4507075976_00010,Vendor creates invoice,2017-03-01 22:59:00+00:00,NONE,NONE,4507075976,00010,Framework order,vendorID_1698,companyID_0003,sourceSystemID_0000
+2000000157_00001,Vendor creates invoice,2017-03-13 22:59:00+00:00,NONE,NONE,2000000157,00001,EC Purchase order,vendorID_0081,companyID_0000,sourceSystemID_0000
+2000000157_00001,Vendor creates debit memo,2017-03-13 22:59:00+00:00,NONE,NONE,2000000157,00001,EC Purchase order,vendorID_0081,companyID_0000,sourceSystemID_0000
+4507009482_00010,Vendor creates invoice,2017-03-31 21:59:00+00:00,NONE,NONE,4507009482,00010,Standard PO,vendorID_0467,companyID_0000,sourceSystemID_0000
+4507020620_00080,Vendor creates invoice,2017-04-18 21:59:00+00:00,NONE,NONE,4507020620,00080,Standard PO,vendorID_0270,companyID_0000,sourceSystemID_0000
+4507020620_00060,Vendor creates invoice,2017-04-18 21:59:00+00:00,NONE,NONE,4507020620,00060,Standard PO,vendorID_0270,companyID_0000,sourceSystemID_0000
+4507020620_00050,Vendor creates invoice,2017-04-18 21:59:00+00:00,NONE,NONE,4507020620,00050,Standard PO,vendorID_0270,companyID_0000,sourceSystemID_0000
+4507020620_00040,Vendor creates invoice,2017-04-18 21:59:00+00:00,NONE,NONE,4507020620,00040,Standard PO,vendorID_0270,companyID_0000,sourceSystemID_0000
+4507020620_00020,Vendor creates invoice,2017-04-18 21:59:00+00:00,NONE,NONE,4507020620,00020,Standard PO,vendorID_0270,companyID_0000,sourceSystemID_0000
+4507020620_00010,Vendor creates invoice,2017-04-18 21:59:00+00:00,NONE,NONE,4507020620,00010,Standard PO,vendorID_0270,companyID_0000,sourceSystemID_0000
+4507020620_00030,Vendor creates invoice,2017-04-18 21:59:00+00:00,NONE,NONE,4507020620,00030,Standard PO,vendorID_0270,companyID_0000,sourceSystemID_0000
+2000000157_00002,Vendor creates debit memo,2017-04-27 21:59:00+00:00,NONE,NONE,2000000157,00002,EC Purchase order,vendorID_0081,companyID_0000,sourceSystemID_0000
+2000000157_00002,Vendor creates invoice,2017-04-27 21:59:00+00:00,NONE,NONE,2000000157,00002,EC Purchase order,vendorID_0081,companyID_0000,sourceSystemID_0000
+4507001695_00010,Vendor creates invoice,2017-05-09 21:59:00+00:00,NONE,NONE,4507001695,00010,Standard PO,vendorID_0251,companyID_0000,sourceSystemID_0000
+2000000157_00003,Vendor creates debit memo,2017-05-11 21:59:00+00:00,NONE,NONE,2000000157,00003,EC Purchase order,vendorID_0081,companyID_0000,sourceSystemID_0000
+2000000157_00003,Vendor creates invoice,2017-05-11 21:59:00+00:00,NONE,NONE,2000000157,00003,EC Purchase order,vendorID_0081,companyID_0000,sourceSystemID_0000
+2000000100_00001,Vendor creates invoice,2017-05-25 21:59:00+00:00,NONE,NONE,2000000100,00001,EC Purchase order,vendorID_0053,companyID_0000,sourceSystemID_0000
+4507009482_00010,Vendor creates invoice,2017-05-28 21:59:00+00:00,NONE,NONE,4507009482,00010,Standard PO,vendorID_0467,companyID_0000,sourceSystemID_0000
+4507001097_00010,Vendor creates invoice,2017-05-31 21:59:00+00:00,NONE,NONE,4507001097,00010,Framework order,vendorID_0467,companyID_0000,sourceSystemID_0000
+4507009482_00010,Vendor creates invoice,2017-05-31 21:59:00+00:00,NONE,NONE,4507009482,00010,Standard PO,vendorID_0467,companyID_0000,sourceSystemID_0000
+2000000157_00004,Vendor creates invoice,2017-06-05 21:59:00+00:00,NONE,NONE,2000000157,00004,EC Purchase order,vendorID_0081,companyID_0000,sourceSystemID_0000
+2000013464_00001,Vendor creates invoice,2017-06-21 21:59:00+00:00,NONE,NONE,2000013464,00001,EC Purchase order,vendorID_1230,companyID_0000,sourceSystemID_0000
+4507009482_00010,Vendor creates invoice,2017-06-30 21:59:00+00:00,NONE,NONE,4507009482,00010,Standard PO,vendorID_0467,companyID_0000,sourceSystemID_0000
+4507020761_00010,Vendor creates invoice,2017-07-17 21:59:00+00:00,NONE,NONE,4507020761,00010,Framework order,vendorID_1384,companyID_0000,sourceSystemID_0000
+4507001097_00010,Vendor creates invoice,2017-07-30 21:59:00+00:00,NONE,NONE,4507001097,00010,Framework order,vendorID_0467,companyID_0000,sourceSystemID_0000
+4507009482_00010,Vendor creates invoice,2017-07-31 21:59:00+00:00,NONE,NONE,4507009482,00010,Standard PO,vendorID_0467,companyID_0000,sourceSystemID_0000
+4507020761_00010,Vendor creates invoice,2017-08-14 21:59:00+00:00,NONE,NONE,4507020761,00010,Framework order,vendorID_1384,companyID_0000,sourceSystemID_0000
+4507075969_00020,Vendor creates invoice,2017-08-18 21:59:00+00:00,NONE,NONE,4507075969,00020,Framework order,vendorID_1691,companyID_0003,sourceSystemID_0000
+4507041896_00010,Vendor creates invoice,2017-08-18 21:59:00+00:00,NONE,NONE,4507041896,00010,Standard PO,vendorID_0616,companyID_0000,sourceSystemID_0000
+2000000084_00001,Vendor creates invoice,2017-08-31 21:59:00+00:00,NONE,NONE,2000000084,00001,EC Purchase order,vendorID_0046,companyID_0000,sourceSystemID_0000
+4507009254_00010,Vendor creates invoice,2017-08-31 21:59:00+00:00,NONE,NONE,4507009254,00010,Standard PO,vendorID_0538,companyID_0000,sourceSystemID_0000
+4507009482_00010,Vendor creates invoice,2017-08-31 21:59:00+00:00,NONE,NONE,4507009482,00010,Standard PO,vendorID_0467,companyID_0000,sourceSystemID_0000
+4507001097_00010,Vendor creates invoice,2017-08-31 21:59:00+00:00,NONE,NONE,4507001097,00010,Framework order,vendorID_0467,companyID_0000,sourceSystemID_0000
+4508076155_00030,Vendor creates invoice,2017-09-08 21:59:00+00:00,NONE,NONE,4508076155,00030,Framework order,vendorID_1864,companyID_0003,sourceSystemID_0000
+4507000440_00010,Vendor creates invoice,2017-09-21 21:59:00+00:00,NONE,NONE,4507000440,00010,Framework order,vendorID_0207,companyID_0000,sourceSystemID_0000
+4507075975_00020,Vendor creates invoice,2017-09-25 21:59:00+00:00,NONE,NONE,4507075975,00020,Framework order,vendorID_1697,companyID_0003,sourceSystemID_0000
+4507000454_00010,Vendor creates debit memo,2017-09-28 21:59:00+00:00,NONE,NONE,4507000454,00010,Framework order,vendorID_0218,companyID_0000,sourceSystemID_0000
+4507000454_00010,Vendor creates invoice,2017-09-28 21:59:00+00:00,NONE,NONE,4507000454,00010,Framework order,vendorID_0218,companyID_0000,sourceSystemID_0000
+4507009254_00010,Vendor creates invoice,2017-09-29 21:59:00+00:00,NONE,NONE,4507009254,00010,Standard PO,vendorID_0538,companyID_0000,sourceSystemID_0000
+4507009253_00010,Vendor creates invoice,2017-09-29 21:59:00+00:00,NONE,NONE,4507009253,00010,Standard PO,vendorID_0538,companyID_0000,sourceSystemID_0000
+4507027474_00010,Vendor creates invoice,2017-10-10 21:59:00+00:00,NONE,NONE,4507027474,00010,Framework order,vendorID_1442,companyID_0000,sourceSystemID_0000
+4507000430_00010,Vendor creates invoice,2017-10-11 21:59:00+00:00,NONE,NONE,4507000430,00010,Framework order,vendorID_0201,companyID_0000,sourceSystemID_0000
+4507003733_00010,Vendor creates invoice,2017-10-19 21:59:00+00:00,NONE,NONE,4507003733,00010,Standard PO,vendorID_0354,companyID_0000,sourceSystemID_0000
+4507000455_00010,Vendor creates invoice,2017-10-23 21:59:00+00:00,NONE,NONE,4507000455,00010,Framework order,vendorID_0219,companyID_0000,sourceSystemID_0000
+4507000879_00110,Vendor creates invoice,2017-10-23 21:59:00+00:00,NONE,NONE,4507000879,00110,Framework order,vendorID_0388,companyID_0000,sourceSystemID_0000
+4507001973_00010,Vendor creates invoice,2017-10-26 21:59:00+00:00,NONE,NONE,4507001973,00010,Framework order,vendorID_0388,companyID_0000,sourceSystemID_0000
+4507009482_00010,Vendor creates invoice,2017-10-31 22:59:00+00:00,NONE,NONE,4507009482,00010,Standard PO,vendorID_0467,companyID_0000,sourceSystemID_0000
+4507009253_00010,Vendor creates invoice,2017-10-31 22:59:00+00:00,NONE,NONE,4507009253,00010,Standard PO,vendorID_0538,companyID_0000,sourceSystemID_0000
+4507075969_00040,Vendor creates invoice,2017-11-02 22:59:00+00:00,NONE,NONE,4507075969,00040,Framework order,vendorID_1691,companyID_0003,sourceSystemID_0000
+4507009272_00010,Vendor creates invoice,2017-11-03 22:59:00+00:00,NONE,NONE,4507009272,00010,Standard PO,vendorID_0328,companyID_0000,sourceSystemID_0000
+4507000449_00080,Vendor creates invoice,2017-11-03 22:59:00+00:00,NONE,NONE,4507000449,00080,Framework order,vendorID_0213,companyID_0000,sourceSystemID_0000
+4507027474_00010,Vendor creates invoice,2017-11-07 22:59:00+00:00,NONE,NONE,4507027474,00010,Framework order,vendorID_1442,companyID_0000,sourceSystemID_0000
+4507000540_00010,Vendor creates invoice,2017-11-07 22:59:00+00:00,NONE,NONE,4507000540,00010,Standard PO,vendorID_0254,companyID_0000,sourceSystemID_0000
+4507027474_00010,Vendor creates debit memo,2017-11-07 22:59:00+00:00,NONE,NONE,4507027474,00010,Framework order,vendorID_1442,companyID_0000,sourceSystemID_0000
+4507000879_00110,Vendor creates invoice,2017-11-08 22:59:00+00:00,NONE,NONE,4507000879,00110,Framework order,vendorID_0388,companyID_0000,sourceSystemID_0000
+4507075965_00250,Vendor creates invoice,2017-11-13 22:59:00+00:00,NONE,NONE,4507075965,00250,Framework order,vendorID_1687,companyID_0003,sourceSystemID_0000
+4507004220_00020,Vendor creates invoice,2017-11-16 22:59:00+00:00,NONE,NONE,4507004220,00020,Standard PO,vendorID_0274,companyID_0000,sourceSystemID_0000
+4507020759_00010,Vendor creates invoice,2017-11-16 22:59:00+00:00,NONE,NONE,4507020759,00010,Standard PO,vendorID_0820,companyID_0000,sourceSystemID_0000
+4507004220_00010,Vendor creates invoice,2017-11-16 22:59:00+00:00,NONE,NONE,4507004220,00010,Standard PO,vendorID_0274,companyID_0000,sourceSystemID_0000
+4507002377_00010,Vendor creates invoice,2017-11-17 22:59:00+00:00,NONE,NONE,4507002377,00010,Standard PO,vendorID_0739,companyID_0000,sourceSystemID_0000
+4507000455_00010,Vendor creates invoice,2017-11-21 22:59:00+00:00,NONE,NONE,4507000455,00010,Framework order,vendorID_0219,companyID_0000,sourceSystemID_0000
+4507000454_00010,Vendor creates invoice,2017-11-22 22:59:00+00:00,NONE,NONE,4507000454,00010,Framework order,vendorID_0218,companyID_0000,sourceSystemID_0000
+4507075966_00010,Vendor creates invoice,2017-11-23 22:59:00+00:00,NONE,NONE,4507075966,00010,Framework order,vendorID_1688,companyID_0003,sourceSystemID_0000
+4507075966_00020,Vendor creates invoice,2017-11-23 22:59:00+00:00,NONE,NONE,4507075966,00020,Framework order,vendorID_1688,companyID_0003,sourceSystemID_0000
+4507000902_00010,Vendor creates invoice,2017-11-27 22:59:00+00:00,NONE,NONE,4507000902,00010,Framework order,vendorID_0398,companyID_0000,sourceSystemID_0000
+4507009482_00010,Vendor creates invoice,2017-11-30 22:59:00+00:00,NONE,NONE,4507009482,00010,Standard PO,vendorID_0467,companyID_0000,sourceSystemID_0000
+4508049723_00030,Vendor creates invoice,2017-11-30 22:59:00+00:00,NONE,NONE,4508049723,00030,Standard PO,vendorID_0197,companyID_0000,sourceSystemID_0000
+4508049723_00020,Vendor creates invoice,2017-11-30 22:59:00+00:00,NONE,NONE,4508049723,00020,Standard PO,vendorID_0197,companyID_0000,sourceSystemID_0000
+4508049723_00010,Vendor creates invoice,2017-11-30 22:59:00+00:00,NONE,NONE,4508049723,00010,Standard PO,vendorID_0197,companyID_0000,sourceSystemID_0000
+4507000455_00010,Vendor creates invoice,2017-11-30 22:59:00+00:00,NONE,NONE,4507000455,00010,Framework order,vendorID_0219,companyID_0000,sourceSystemID_0000
+4508076155_00040,Vendor creates invoice,2017-12-01 22:59:00+00:00,NONE,NONE,4508076155,00040,Framework order,vendorID_1864,companyID_0003,sourceSystemID_0000
+4507001369_00070,Vendor creates invoice,2017-12-04 22:59:00+00:00,NONE,NONE,4507001369,00070,Standard PO,vendorID_0550,companyID_0000,sourceSystemID_0000
+4507001369_00080,Vendor creates invoice,2017-12-04 22:59:00+00:00,NONE,NONE,4507001369,00080,Standard PO,vendorID_0550,companyID_0000,sourceSystemID_0000
+4507001369_00090,Vendor creates invoice,2017-12-04 22:59:00+00:00,NONE,NONE,4507001369,00090,Standard PO,vendorID_0550,companyID_0000,sourceSystemID_0000
+4507001369_00670,Vendor creates invoice,2017-12-04 22:59:00+00:00,NONE,NONE,4507001369,00670,Standard PO,vendorID_0550,companyID_0000,sourceSystemID_0000
+4507001369_00110,Vendor creates invoice,2017-12-04 22:59:00+00:00,NONE,NONE,4507001369,00110,Standard PO,vendorID_0550,companyID_0000,sourceSystemID_0000
+4507001369_00120,Vendor creates invoice,2017-12-04 22:59:00+00:00,NONE,NONE,4507001369,00120,Standard PO,vendorID_0550,companyID_0000,sourceSystemID_0000
+4507001369_00130,Vendor creates invoice,2017-12-04 22:59:00+00:00,NONE,NONE,4507001369,00130,Standard PO,vendorID_0550,companyID_0000,sourceSystemID_0000
+4507001369_00140,Vendor creates invoice,2017-12-04 22:59:00+00:00,NONE,NONE,4507001369,00140,Standard PO,vendorID_0550,companyID_0000,sourceSystemID_0000
+4507001369_00060,Vendor creates invoice,2017-12-04 22:59:00+00:00,NONE,NONE,4507001369,00060,Standard PO,vendorID_0550,companyID_0000,sourceSystemID_0000
+4507001369_00100,Vendor creates invoice,2017-12-04 22:59:00+00:00,NONE,NONE,4507001369,00100,Standard PO,vendorID_0550,companyID_0000,sourceSystemID_0000
+4507001369_00050,Vendor creates invoice,2017-12-04 22:59:00+00:00,NONE,NONE,4507001369,00050,Standard PO,vendorID_0550,companyID_0000,sourceSystemID_0000
+4507001369_00710,Vendor creates invoice,2017-12-04 22:59:00+00:00,NONE,NONE,4507001369,00710,Standard PO,vendorID_0550,companyID_0000,sourceSystemID_0000
+4507001369_00030,Vendor creates invoice,2017-12-04 22:59:00+00:00,NONE,NONE,4507001369,00030,Standard PO,vendorID_0550,companyID_0000,sourceSystemID_0000
+4507001369_00020,Vendor creates invoice,2017-12-04 22:59:00+00:00,NONE,NONE,4507001369,00020,Standard PO,vendorID_0550,companyID_0000,sourceSystemID_0000
+4507001369_00010,Vendor creates invoice,2017-12-04 22:59:00+00:00,NONE,NONE,4507001369,00010,Standard PO,vendorID_0550,companyID_0000,sourceSystemID_0000
+4507001369_00690,Vendor creates invoice,2017-12-04 22:59:00+00:00,NONE,NONE,4507001369,00690,Standard PO,vendorID_0550,companyID_0000,sourceSystemID_0000
+4507001369_00700,Vendor creates invoice,2017-12-04 22:59:00+00:00,NONE,NONE,4507001369,00700,Standard PO,vendorID_0550,companyID_0000,sourceSystemID_0000
+4507030655_00010,Vendor creates invoice,2017-12-04 22:59:00+00:00,NONE,NONE,4507030655,00010,Framework order,vendorID_1463,companyID_0000,sourceSystemID_0000

@@ -1,0 +1,956 @@
+{
+  "User": {
+    "data_type": "str",
+    "null_count": 0,
+    "unique_count": 628,
+    "top_values": [
+      {
+        "value": "NONE",
+        "event_count": 399090
+      },
+      {
+        "value": "user_002",
+        "event_count": 166353
+      },
+      {
+        "value": "user_029",
+        "event_count": 71539
+      },
+      {
+        "value": "user_020",
+        "event_count": 39770
+      },
+      {
+        "value": "batch_06",
+        "event_count": 38100
+      },
+      {
+        "value": "user_013",
+        "event_count": 35069
+      },
+      {
+        "value": "user_001",
+        "event_count": 34563
+      },
+      {
+        "value": "user_012",
+        "event_count": 32707
+      },
+      {
+        "value": "user_019",
+        "event_count": 29764
+      },
+      {
+        "value": "user_235",
+        "event_count": 28336
+      },
+      {
+        "value": "user_015",
+        "event_count": 27941
+      },
+      {
+        "value": "batch_00",
+        "event_count": 27934
+      },
+      {
+        "value": "batch_02",
+        "event_count": 27933
+      },
+      {
+        "value": "user_006",
+        "event_count": 17636
+      },
+      {
+        "value": "user_040",
+        "event_count": 17627
+      },
+      {
+        "value": "batch_03",
+        "event_count": 17384
+      },
+      {
+        "value": "user_057",
+        "event_count": 16089
+      },
+      {
+        "value": "batch_07",
+        "event_count": 15189
+      },
+      {
+        "value": "user_036",
+        "event_count": 14745
+      },
+      {
+        "value": "user_005",
+        "event_count": 14672
+      }
+    ]
+  },
+  "org:resource": {
+    "data_type": "str",
+    "null_count": 0,
+    "unique_count": 628,
+    "top_values": [
+      {
+        "value": "NONE",
+        "event_count": 399090
+      },
+      {
+        "value": "user_002",
+        "event_count": 166353
+      },
+      {
+        "value": "user_029",
+        "event_count": 71539
+      },
+      {
+        "value": "user_020",
+        "event_count": 39770
+      },
+      {
+        "value": "batch_06",
+        "event_count": 38100
+      },
+      {
+        "value": "user_013",
+        "event_count": 35069
+      },
+      {
+        "value": "user_001",
+        "event_count": 34563
+      },
+      {
+        "value": "user_012",
+        "event_count": 32707
+      },
+      {
+        "value": "user_019",
+        "event_count": 29764
+      },
+      {
+        "value": "user_235",
+        "event_count": 28336
+      },
+      {
+        "value": "user_015",
+        "event_count": 27941
+      },
+      {
+        "value": "batch_00",
+        "event_count": 27934
+      },
+      {
+        "value": "batch_02",
+        "event_count": 27933
+      },
+      {
+        "value": "user_006",
+        "event_count": 17636
+      },
+      {
+        "value": "user_040",
+        "event_count": 17627
+      },
+      {
+        "value": "batch_03",
+        "event_count": 17384
+      },
+      {
+        "value": "user_057",
+        "event_count": 16089
+      },
+      {
+        "value": "batch_07",
+        "event_count": 15189
+      },
+      {
+        "value": "user_036",
+        "event_count": 14745
+      },
+      {
+        "value": "user_005",
+        "event_count": 14672
+      }
+    ]
+  },
+  "Cumulative net worth (EUR)": {
+    "data_type": "float64",
+    "null_count": 0,
+    "unique_count": 25221,
+    "top_values": [
+      {
+        "value": 0.0,
+        "event_count": 40270
+      },
+      {
+        "value": 42.0,
+        "event_count": 14431
+      },
+      {
+        "value": 23.0,
+        "event_count": 14185
+      },
+      {
+        "value": 47.0,
+        "event_count": 9379
+      },
+      {
+        "value": 84.0,
+        "event_count": 5928
+      },
+      {
+        "value": 9.0,
+        "event_count": 5723
+      },
+      {
+        "value": 71.0,
+        "event_count": 4631
+      },
+      {
+        "value": 34.0,
+        "event_count": 3973
+      },
+      {
+        "value": 74.0,
+        "event_count": 3930
+      },
+      {
+        "value": 43.0,
+        "event_count": 3692
+      },
+      {
+        "value": 53.0,
+        "event_count": 3609
+      },
+      {
+        "value": 22.0,
+        "event_count": 3555
+      },
+      {
+        "value": 178.0,
+        "event_count": 3521
+      },
+      {
+        "value": 41.0,
+        "event_count": 3486
+      },
+      {
+        "value": 31.0,
+        "event_count": 3455
+      },
+      {
+        "value": 536.0,
+        "event_count": 3451
+      },
+      {
+        "value": 223.0,
+        "event_count": 3441
+      },
+      {
+        "value": 45.0,
+        "event_count": 3440
+      },
+      {
+        "value": 156.0,
+        "event_count": 3337
+      },
+      {
+        "value": 38.0,
+        "event_count": 3309
+      }
+    ]
+  },
+  "case:Spend area text": {
+    "data_type": "str",
+    "null_count": 0,
+    "unique_count": 21,
+    "top_values": [
+      {
+        "value": "Packaging",
+        "event_count": 583981
+      },
+      {
+        "value": "Sales",
+        "event_count": 360774
+      },
+      {
+        "value": "Logistics",
+        "event_count": 253565
+      },
+      {
+        "value": "Trading & End Products",
+        "event_count": 126756
+      },
+      {
+        "value": "Additives",
+        "event_count": 95499
+      },
+      {
+        "value": "CAPEX & SOCS",
+        "event_count": 40074
+      },
+      {
+        "value": "Latex & Monomers",
+        "event_count": 27007
+      },
+      {
+        "value": "",
+        "event_count": 16294
+      },
+      {
+        "value": "Others",
+        "event_count": 15419
+      },
+      {
+        "value": "Solvents",
+        "event_count": 13889
+      },
+      {
+        "value": "Pigments & Colorants",
+        "event_count": 13811
+      },
+      {
+        "value": "Marketing",
+        "event_count": 12994
+      },
+      {
+        "value": "Specialty Resins",
+        "event_count": 12469
+      },
+      {
+        "value": "Titanium Dioxides",
+        "event_count": 7453
+      },
+      {
+        "value": "Enterprise Services",
+        "event_count": 5957
+      },
+      {
+        "value": "Real Estate",
+        "event_count": 3824
+      },
+      {
+        "value": "Workforce Services",
+        "event_count": 3441
+      },
+      {
+        "value": "Commodity Resins",
+        "event_count": 2374
+      },
+      {
+        "value": "Spend Area Unidentified",
+        "event_count": 195
+      },
+      {
+        "value": "Energy",
+        "event_count": 142
+      }
+    ]
+  },
+  "case:Company": {
+    "data_type": "str",
+    "null_count": 0,
+    "unique_count": 4,
+    "top_values": [
+      {
+        "value": "companyID_0000",
+        "event_count": 1590010
+      },
+      {
+        "value": "companyID_0003",
+        "event_count": 5898
+      },
+      {
+        "value": "companyID_0001",
+        "event_count": 9
+      },
+      {
+        "value": "companyID_0002",
+        "event_count": 6
+      }
+    ]
+  },
+  "case:Document Type": {
+    "data_type": "str",
+    "null_count": 0,
+    "unique_count": 3,
+    "top_values": [
+      {
+        "value": "Standard PO",
+        "event_count": 1539913
+      },
+      {
+        "value": "Framework order",
+        "event_count": 33649
+      },
+      {
+        "value": "EC Purchase order",
+        "event_count": 22361
+      }
+    ]
+  },
+  "case:Sub spend area text": {
+    "data_type": "str",
+    "null_count": 0,
+    "unique_count": 136,
+    "top_values": [
+      {
+        "value": "Products for Resale",
+        "event_count": 338970
+      },
+      {
+        "value": "Labels",
+        "event_count": 298914
+      },
+      {
+        "value": "Road Packed",
+        "event_count": 173633
+      },
+      {
+        "value": "Trading products (old structure)",
+        "event_count": 126756
+      },
+      {
+        "value": "Metal Containers & Lids < 30L",
+        "event_count": 118243
+      },
+      {
+        "value": "Plastic Containers & Lids < 30L",
+        "event_count": 108426
+      },
+      {
+        "value": "Other Logistics Services",
+        "event_count": 53066
+      },
+      {
+        "value": "Extenders",
+        "event_count": 42091
+      },
+      {
+        "value": "Packaging - Other",
+        "event_count": 37829
+      },
+      {
+        "value": "Sea",
+        "event_count": 25044
+      },
+      {
+        "value": "",
+        "event_count": 16294
+      },
+      {
+        "value": "MRO (components)",
+        "event_count": 15794
+      },
+      {
+        "value": "Laboratory Supplies & Services",
+        "event_count": 14136
+      },
+      {
+        "value": "Surfactants",
+        "event_count": 13258
+      },
+      {
+        "value": "Rheology & Thixotropic Agents",
+        "event_count": 11510
+      },
+      {
+        "value": "Styrene Acrylics",
+        "event_count": 10215
+      },
+      {
+        "value": "Color Collateral",
+        "event_count": 9477
+      },
+      {
+        "value": "Colorants",
+        "event_count": 7912
+      },
+      {
+        "value": "Business Gifts & Promotional Items",
+        "event_count": 7881
+      },
+      {
+        "value": "Pure Acrylics",
+        "event_count": 7821
+      }
+    ]
+  },
+  "case:Purchasing Document": {
+    "data_type": "str",
+    "null_count": 0,
+    "unique_count": 76349,
+    "top_values": [
+      {
+        "value": "4507000879",
+        "event_count": 2601
+      },
+      {
+        "value": "4507016120",
+        "event_count": 1639
+      },
+      {
+        "value": "4507016719",
+        "event_count": 1503
+      },
+      {
+        "value": "4507000449",
+        "event_count": 1450
+      },
+      {
+        "value": "4508054253",
+        "event_count": 1448
+      },
+      {
+        "value": "4507003374",
+        "event_count": 1312
+      },
+      {
+        "value": "4508073932",
+        "event_count": 1290
+      },
+      {
+        "value": "4507003965",
+        "event_count": 1287
+      },
+      {
+        "value": "4507005576",
+        "event_count": 1271
+      },
+      {
+        "value": "4507004396",
+        "event_count": 1249
+      },
+      {
+        "value": "4508059745",
+        "event_count": 1230
+      },
+      {
+        "value": "4508062388",
+        "event_count": 1210
+      },
+      {
+        "value": "4507001607",
+        "event_count": 1174
+      },
+      {
+        "value": "4507017109",
+        "event_count": 999
+      },
+      {
+        "value": "4507027474",
+        "event_count": 990
+      },
+      {
+        "value": "4508070851",
+        "event_count": 990
+      },
+      {
+        "value": "4507021930",
+        "event_count": 974
+      },
+      {
+        "value": "4508047531",
+        "event_count": 954
+      },
+      {
+        "value": "4507034373",
+        "event_count": 950
+      },
+      {
+        "value": "4507000440",
+        "event_count": 923
+      }
+    ]
+  },
+  "case:Purch. Doc. Category name": {
+    "data_type": "str",
+    "null_count": 0,
+    "unique_count": 1,
+    "top_values": [
+      {
+        "value": "Purchase order",
+        "event_count": 1595923
+      }
+    ]
+  },
+  "case:Vendor": {
+    "data_type": "str",
+    "null_count": 0,
+    "unique_count": 1975,
+    "top_values": [
+      {
+        "value": "vendorID_0136",
+        "event_count": 79994
+      },
+      {
+        "value": "vendorID_0120",
+        "event_count": 72945
+      },
+      {
+        "value": "vendorID_0104",
+        "event_count": 61455
+      },
+      {
+        "value": "vendorID_0234",
+        "event_count": 54430
+      },
+      {
+        "value": "vendorID_0230",
+        "event_count": 47273
+      },
+      {
+        "value": "vendorID_0106",
+        "event_count": 43730
+      },
+      {
+        "value": "vendorID_0472",
+        "event_count": 40274
+      },
+      {
+        "value": "vendorID_0103",
+        "event_count": 36159
+      },
+      {
+        "value": "vendorID_0182",
+        "event_count": 36089
+      },
+      {
+        "value": "vendorID_0127",
+        "event_count": 23790
+      },
+      {
+        "value": "vendorID_0118",
+        "event_count": 22955
+      },
+      {
+        "value": "vendorID_0108",
+        "event_count": 22167
+      },
+      {
+        "value": "vendorID_0236",
+        "event_count": 20633
+      },
+      {
+        "value": "vendorID_0110",
+        "event_count": 19311
+      },
+      {
+        "value": "vendorID_0264",
+        "event_count": 17387
+      },
+      {
+        "value": "vendorID_0246",
+        "event_count": 16539
+      },
+      {
+        "value": "vendorID_0197",
+        "event_count": 16085
+      },
+      {
+        "value": "vendorID_0125",
+        "event_count": 15505
+      },
+      {
+        "value": "vendorID_0150",
+        "event_count": 15373
+      },
+      {
+        "value": "vendorID_0372",
+        "event_count": 15239
+      }
+    ]
+  },
+  "case:Item Type": {
+    "data_type": "str",
+    "null_count": 0,
+    "unique_count": 6,
+    "top_values": [
+      {
+        "value": "Standard",
+        "event_count": 1234490
+      },
+      {
+        "value": "Service",
+        "event_count": 267601
+      },
+      {
+        "value": "Consignment",
+        "event_count": 36084
+      },
+      {
+        "value": "Third-party",
+        "event_count": 29316
+      },
+      {
+        "value": "Subcontracting",
+        "event_count": 22534
+      },
+      {
+        "value": "Limit",
+        "event_count": 5898
+      }
+    ]
+  },
+  "case:Item Category": {
+    "data_type": "str",
+    "null_count": 0,
+    "unique_count": 4,
+    "top_values": [
+      {
+        "value": "3-way match, invoice before GR",
+        "event_count": 1234708
+      },
+      {
+        "value": "3-way match, invoice after GR",
+        "event_count": 319233
+      },
+      {
+        "value": "Consignment",
+        "event_count": 36084
+      },
+      {
+        "value": "2-way match",
+        "event_count": 5898
+      }
+    ]
+  },
+  "case:Spend classification text": {
+    "data_type": "str",
+    "null_count": 0,
+    "unique_count": 4,
+    "top_values": [
+      {
+        "value": "PR",
+        "event_count": 883244
+      },
+      {
+        "value": "NPR",
+        "event_count": 680771
+      },
+      {
+        "value": "",
+        "event_count": 16294
+      },
+      {
+        "value": "OTHER",
+        "event_count": 15614
+      }
+    ]
+  },
+  "case:Source": {
+    "data_type": "str",
+    "null_count": 0,
+    "unique_count": 1,
+    "top_values": [
+      {
+        "value": "sourceSystemID_0000",
+        "event_count": 1595923
+      }
+    ]
+  },
+  "case:Name": {
+    "data_type": "str",
+    "null_count": 0,
+    "unique_count": 1899,
+    "top_values": [
+      {
+        "value": "vendor_0135",
+        "event_count": 79994
+      },
+      {
+        "value": "vendor_0119",
+        "event_count": 72945
+      },
+      {
+        "value": "vendor_0104",
+        "event_count": 61498
+      },
+      {
+        "value": "vendor_0229",
+        "event_count": 54430
+      },
+      {
+        "value": "vendor_0225",
+        "event_count": 47273
+      },
+      {
+        "value": "vendor_0106",
+        "event_count": 43730
+      },
+      {
+        "value": "vendor_0457",
+        "event_count": 40274
+      },
+      {
+        "value": "vendor_0103",
+        "event_count": 36159
+      },
+      {
+        "value": "vendor_0180",
+        "event_count": 36089
+      },
+      {
+        "value": "vendor_0126",
+        "event_count": 23790
+      },
+      {
+        "value": "vendor_0117",
+        "event_count": 22955
+      },
+      {
+        "value": "vendor_0108",
+        "event_count": 22167
+      },
+      {
+        "value": "vendor_0231",
+        "event_count": 20633
+      },
+      {
+        "value": "vendor_0110",
+        "event_count": 19311
+      },
+      {
+        "value": "vendor_0257",
+        "event_count": 17387
+      },
+      {
+        "value": "vendor_0241",
+        "event_count": 16539
+      },
+      {
+        "value": "vendor_0194",
+        "event_count": 16085
+      },
+      {
+        "value": "vendor_0124",
+        "event_count": 15505
+      },
+      {
+        "value": "vendor_0148",
+        "event_count": 15373
+      },
+      {
+        "value": "vendor_0361",
+        "event_count": 15239
+      }
+    ]
+  },
+  "case:GR-Based Inv. Verif.": {
+    "data_type": "bool",
+    "null_count": 0,
+    "unique_count": 2,
+    "top_values": [
+      {
+        "value": false,
+        "event_count": 1276690
+      },
+      {
+        "value": true,
+        "event_count": 319233
+      }
+    ]
+  },
+  "case:Item": {
+    "data_type": "str",
+    "null_count": 0,
+    "unique_count": 490,
+    "top_values": [
+      {
+        "value": "00010",
+        "event_count": 379271
+      },
+      {
+        "value": "00001",
+        "event_count": 260639
+      },
+      {
+        "value": "00020",
+        "event_count": 154421
+      },
+      {
+        "value": "00030",
+        "event_count": 103501
+      },
+      {
+        "value": "00040",
+        "event_count": 79198
+      },
+      {
+        "value": "00050",
+        "event_count": 64047
+      },
+      {
+        "value": "00060",
+        "event_count": 53841
+      },
+      {
+        "value": "00070",
+        "event_count": 46166
+      },
+      {
+        "value": "00080",
+        "event_count": 40460
+      },
+      {
+        "value": "00090",
+        "event_count": 35735
+      },
+      {
+        "value": "00100",
+        "event_count": 31498
+      },
+      {
+        "value": "00110",
+        "event_count": 28272
+      },
+      {
+        "value": "00120",
+        "event_count": 25124
+      },
+      {
+        "value": "00130",
+        "event_count": 22432
+      },
+      {
+        "value": "00140",
+        "event_count": 20315
+      },
+      {
+        "value": "00150",
+        "event_count": 18255
+      },
+      {
+        "value": "00160",
+        "event_count": 16426
+      },
+      {
+        "value": "00170",
+        "event_count": 14822
+      },
+      {
+        "value": "00180",
+        "event_count": 13548
+      },
+      {
+        "value": "00190",
+        "event_count": 12415
+      }
+    ]
+  },
+  "case:Goods Receipt": {
+    "data_type": "bool",
+    "null_count": 0,
+    "unique_count": 2,
+    "top_values": [
+      {
+        "value": true,
+        "event_count": 1590025
+      },
+      {
+        "value": false,
+        "event_count": 5898
+      }
+    ]
+  }
+}
