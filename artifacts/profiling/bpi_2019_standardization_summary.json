@@ -1,0 +1,23 @@
+{
+  "row_count": 1595923,
+  "case_count": 251734,
+  "activity_count": 42,
+  "column_count": 30,
+  "partition_count": 46,
+  "resource_missing_count_after_normalization": 399090,
+  "case_id_missing_count": 0,
+  "activity_missing_count": 0,
+  "timestamp_missing_count": 0,
+  "potential_duplicate_event_row_count": 209283,
+  "timestamp_quality_counts": {
+    "expected_period": 1595603,
+    "edge_period_before_main_window": 223,
+    "historical_outlier": 95,
+    "edge_period_after_main_window": 2
+  },
+  "period_start": "1948-01-26T22:59:00+00:00",
+  "period_end": "2020-04-09T21:59:00+00:00",
+  "dropped_redundant_source_columns": [
+    "User"
+  ]
+}

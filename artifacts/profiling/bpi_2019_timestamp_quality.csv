@@ -1,0 +1,5 @@
+timestamp_quality_status,event_count,event_percentage
+expected_period,1595603,99.979949
+edge_period_before_main_window,223,0.013973
+historical_outlier,95,0.005953
+edge_period_after_main_window,2,0.000125

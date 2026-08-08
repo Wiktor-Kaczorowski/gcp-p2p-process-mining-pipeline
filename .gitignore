@@ -22,6 +22,7 @@ data/processed/*
 # Generated artifacts
 artifacts/profiling/*.parquet
 artifacts/dashboard/*
+artifacts/profiling/*_sample.csv
 
 # Editors and operating system
 .vscode/

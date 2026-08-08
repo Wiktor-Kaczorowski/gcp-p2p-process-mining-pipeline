@@ -1,0 +1,31 @@
+column_name,data_type,null_count,unique_value_count
+event_id,int64,0,1595923
+case_id,string,0,251734
+case_name,string,0,1899
+event_sequence,int32,0,990
+activity,string,0,42
+event_timestamp,"datetime64[us, UTC]",0,167432
+event_date,object,0,482
+event_year,Int16,0,10
+event_month,Int8,0,12
+timestamp_quality_status,string,0,4
+resource_id,string,399090,627
+cumulative_net_worth_eur,float64,0,25221
+purchasing_document_id,string,0,76349
+item_id,string,0,490
+document_type,string,0,3
+purchasing_document_category,string,0,1
+company_id,string,0,4
+vendor_id,string,0,1975
+source_system,string,0,1
+spend_area,string,16294,20
+sub_spend_area,string,16294,135
+spend_classification,string,16294,3
+item_type,string,0,6
+item_category,string,0,4
+gr_based_invoice_verification,string,0,2
+goods_receipt_required,string,0,2
+source_file,str,0,1
+source_row_number,int64,0,1595923
+pipeline_batch_id,str,0,1
+processing_timestamp_utc,"datetime64[us, UTC]",0,1
