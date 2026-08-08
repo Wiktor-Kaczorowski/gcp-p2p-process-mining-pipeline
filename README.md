@@ -27,7 +27,7 @@ BPI Challenge 2019 → Python → GCS → BigQuery → Looker Studio
 - [x] Incremental batch generation
 - [x] Controlled data-quality scenarios
 - [x] Automated batch validation
-- [ ] Google Cloud Storage ingestion
+- [X] Google Cloud Storage ingestion
 - [ ] BigQuery raw layer
 - [ ] BigQuery staging layer
 - [ ] Data-quality monitoring
@@ -74,3 +74,17 @@ The validation framework checks:
 
 The validation suite is tested against 16 clean batches and
 6 controlled failure scenarios.
+
+## Cloud ingestion
+
+Validated Parquet batches are uploaded to a Google Cloud Storage
+landing zone using the Google Cloud Python client.
+
+The ingestion process includes:
+
+- pre-upload data-quality verification
+- manifest-based file-size validation
+- SHA-256 integrity verification
+- cloud object metadata
+- idempotent upload handling
+- upload monitoring reports

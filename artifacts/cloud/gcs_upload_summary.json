@@ -1,0 +1,13 @@
+{
+  "project_id": "p2p-process-mining-pipeline",
+  "bucket_name": "wk-p2p-process-mining-raw-2026",
+  "upload_timestamp_utc": "2026-08-08T14:15:27.322636+00:00",
+  "batch_count": 16,
+  "successful_batches": 16,
+  "status_counts": {
+    "SKIPPED": 16
+  },
+  "total_rows": 1595923,
+  "total_bytes": 52193330,
+  "upload_success": true
+}
