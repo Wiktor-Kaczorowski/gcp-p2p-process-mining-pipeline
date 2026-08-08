@@ -24,7 +24,7 @@ BPI Challenge 2019 → Python → GCS → BigQuery → Looker Studio
 - [x] Local environment configuration
 - [X] Source-data profiling
 - [ ] Event-log standardization
-- [ ] Batch generation
+- [X] Incremental batch generation
 - [ ] Google Cloud ingestion
 - [ ] Data-quality framework
 - [ ] Analytical model
@@ -39,3 +39,17 @@ activities related to purchase orders, goods receipts, invoices and payments.
 
 The original XES file is not stored in this repository. Profiling reports
 describing the source schema are available in `artifacts/profiling`.
+
+## Incremental ingestion simulation
+
+The canonical event dataset is divided into 16 deterministic
+ingestion batches.
+
+Each batch contains up to 100,000 events and includes technical
+ingestion metadata.
+
+A batch manifest stores row counts, timestamp ranges, checksums
+and processing status.
+
+This structure will be used to simulate incremental ingestion into
+Google Cloud Storage and BigQuery.

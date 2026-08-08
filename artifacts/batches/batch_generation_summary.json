@@ -1,0 +1,13 @@
+{
+  "batch_count": 16,
+  "configured_batch_size": 100000,
+  "total_row_count": 1595923,
+  "canonical_case_count": 251734,
+  "canonical_activity_count": 42,
+  "first_simulated_ingestion_date": "2026-01-01",
+  "last_simulated_ingestion_date": "2026-01-16",
+  "smallest_batch_row_count": 95923,
+  "largest_batch_row_count": 100000,
+  "batch_strategy": "Chronological event ordering with fixed-size simulated ingestion batches.",
+  "important_note": "The simulated ingestion date is technical metadata and does not replace the original business event timestamp."
+}
