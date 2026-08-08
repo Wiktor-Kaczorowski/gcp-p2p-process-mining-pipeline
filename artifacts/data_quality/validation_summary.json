@@ -1,0 +1,9 @@
+{
+  "clean_batches_tested": 16,
+  "clean_batches_passed": 16,
+  "controlled_scenarios_tested": 6,
+  "controlled_scenarios_detected": 6,
+  "total_validation_rule_results": 190,
+  "clean_validation_success": true,
+  "failure_detection_success": true
+}

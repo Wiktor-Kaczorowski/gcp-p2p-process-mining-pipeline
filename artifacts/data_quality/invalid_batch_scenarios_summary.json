@@ -1,0 +1,13 @@
+{
+  "scenario_count": 6,
+  "scenarios": [
+    "duplicate_events",
+    "missing_case_id",
+    "missing_timestamp",
+    "schema_drift",
+    "duplicate_batch_delivery",
+    "corrupted_parquet"
+  ],
+  "purpose": "Controlled failure scenarios for data-quality and ingestion testing.",
+  "clean_batches_modified": false
+}

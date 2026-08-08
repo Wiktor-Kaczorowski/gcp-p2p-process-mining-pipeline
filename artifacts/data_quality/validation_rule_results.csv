@@ -1,0 +1,191 @@
+dataset_name,batch_id,rule_id,status,failed_rows,message
+batch_0001,batch_0001,FILE_READABLE,PASS,0,Parquet file opened successfully.
+batch_0001,batch_0001,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+batch_0001,batch_0001,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+batch_0001,batch_0001,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+batch_0001,batch_0001,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+batch_0001,batch_0001,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+batch_0001,batch_0001,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+batch_0001,batch_0001,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0001.
+batch_0001,batch_0001,DQ_IDEMPOTENCY,PASS,0,batch_0001 has not previously been processed.
+batch_0002,batch_0002,FILE_READABLE,PASS,0,Parquet file opened successfully.
+batch_0002,batch_0002,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+batch_0002,batch_0002,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+batch_0002,batch_0002,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+batch_0002,batch_0002,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+batch_0002,batch_0002,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+batch_0002,batch_0002,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+batch_0002,batch_0002,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0002.
+batch_0002,batch_0002,DQ_IDEMPOTENCY,PASS,0,batch_0002 has not previously been processed.
+batch_0003,batch_0003,FILE_READABLE,PASS,0,Parquet file opened successfully.
+batch_0003,batch_0003,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+batch_0003,batch_0003,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+batch_0003,batch_0003,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+batch_0003,batch_0003,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+batch_0003,batch_0003,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+batch_0003,batch_0003,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+batch_0003,batch_0003,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0003.
+batch_0003,batch_0003,DQ_IDEMPOTENCY,PASS,0,batch_0003 has not previously been processed.
+batch_0004,batch_0004,FILE_READABLE,PASS,0,Parquet file opened successfully.
+batch_0004,batch_0004,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+batch_0004,batch_0004,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+batch_0004,batch_0004,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+batch_0004,batch_0004,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+batch_0004,batch_0004,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+batch_0004,batch_0004,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+batch_0004,batch_0004,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0004.
+batch_0004,batch_0004,DQ_IDEMPOTENCY,PASS,0,batch_0004 has not previously been processed.
+batch_0005,batch_0005,FILE_READABLE,PASS,0,Parquet file opened successfully.
+batch_0005,batch_0005,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+batch_0005,batch_0005,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+batch_0005,batch_0005,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+batch_0005,batch_0005,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+batch_0005,batch_0005,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+batch_0005,batch_0005,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+batch_0005,batch_0005,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0005.
+batch_0005,batch_0005,DQ_IDEMPOTENCY,PASS,0,batch_0005 has not previously been processed.
+batch_0006,batch_0006,FILE_READABLE,PASS,0,Parquet file opened successfully.
+batch_0006,batch_0006,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+batch_0006,batch_0006,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+batch_0006,batch_0006,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+batch_0006,batch_0006,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+batch_0006,batch_0006,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+batch_0006,batch_0006,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+batch_0006,batch_0006,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0006.
+batch_0006,batch_0006,DQ_IDEMPOTENCY,PASS,0,batch_0006 has not previously been processed.
+batch_0007,batch_0007,FILE_READABLE,PASS,0,Parquet file opened successfully.
+batch_0007,batch_0007,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+batch_0007,batch_0007,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+batch_0007,batch_0007,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+batch_0007,batch_0007,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+batch_0007,batch_0007,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+batch_0007,batch_0007,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+batch_0007,batch_0007,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0007.
+batch_0007,batch_0007,DQ_IDEMPOTENCY,PASS,0,batch_0007 has not previously been processed.
+batch_0008,batch_0008,FILE_READABLE,PASS,0,Parquet file opened successfully.
+batch_0008,batch_0008,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+batch_0008,batch_0008,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+batch_0008,batch_0008,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+batch_0008,batch_0008,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+batch_0008,batch_0008,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+batch_0008,batch_0008,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+batch_0008,batch_0008,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0008.
+batch_0008,batch_0008,DQ_IDEMPOTENCY,PASS,0,batch_0008 has not previously been processed.
+batch_0009,batch_0009,FILE_READABLE,PASS,0,Parquet file opened successfully.
+batch_0009,batch_0009,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+batch_0009,batch_0009,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+batch_0009,batch_0009,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+batch_0009,batch_0009,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+batch_0009,batch_0009,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+batch_0009,batch_0009,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+batch_0009,batch_0009,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0009.
+batch_0009,batch_0009,DQ_IDEMPOTENCY,PASS,0,batch_0009 has not previously been processed.
+batch_0010,batch_0010,FILE_READABLE,PASS,0,Parquet file opened successfully.
+batch_0010,batch_0010,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+batch_0010,batch_0010,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+batch_0010,batch_0010,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+batch_0010,batch_0010,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+batch_0010,batch_0010,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+batch_0010,batch_0010,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+batch_0010,batch_0010,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0010.
+batch_0010,batch_0010,DQ_IDEMPOTENCY,PASS,0,batch_0010 has not previously been processed.
+batch_0011,batch_0011,FILE_READABLE,PASS,0,Parquet file opened successfully.
+batch_0011,batch_0011,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+batch_0011,batch_0011,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+batch_0011,batch_0011,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+batch_0011,batch_0011,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+batch_0011,batch_0011,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+batch_0011,batch_0011,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+batch_0011,batch_0011,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0011.
+batch_0011,batch_0011,DQ_IDEMPOTENCY,PASS,0,batch_0011 has not previously been processed.
+batch_0012,batch_0012,FILE_READABLE,PASS,0,Parquet file opened successfully.
+batch_0012,batch_0012,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+batch_0012,batch_0012,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+batch_0012,batch_0012,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+batch_0012,batch_0012,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+batch_0012,batch_0012,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+batch_0012,batch_0012,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+batch_0012,batch_0012,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0012.
+batch_0012,batch_0012,DQ_IDEMPOTENCY,PASS,0,batch_0012 has not previously been processed.
+batch_0013,batch_0013,FILE_READABLE,PASS,0,Parquet file opened successfully.
+batch_0013,batch_0013,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+batch_0013,batch_0013,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+batch_0013,batch_0013,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+batch_0013,batch_0013,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+batch_0013,batch_0013,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+batch_0013,batch_0013,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+batch_0013,batch_0013,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0013.
+batch_0013,batch_0013,DQ_IDEMPOTENCY,PASS,0,batch_0013 has not previously been processed.
+batch_0014,batch_0014,FILE_READABLE,PASS,0,Parquet file opened successfully.
+batch_0014,batch_0014,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+batch_0014,batch_0014,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+batch_0014,batch_0014,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+batch_0014,batch_0014,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+batch_0014,batch_0014,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+batch_0014,batch_0014,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+batch_0014,batch_0014,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0014.
+batch_0014,batch_0014,DQ_IDEMPOTENCY,PASS,0,batch_0014 has not previously been processed.
+batch_0015,batch_0015,FILE_READABLE,PASS,0,Parquet file opened successfully.
+batch_0015,batch_0015,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+batch_0015,batch_0015,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+batch_0015,batch_0015,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+batch_0015,batch_0015,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+batch_0015,batch_0015,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+batch_0015,batch_0015,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+batch_0015,batch_0015,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0015.
+batch_0015,batch_0015,DQ_IDEMPOTENCY,PASS,0,batch_0015 has not previously been processed.
+batch_0016,batch_0016,FILE_READABLE,PASS,0,Parquet file opened successfully.
+batch_0016,batch_0016,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+batch_0016,batch_0016,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+batch_0016,batch_0016,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+batch_0016,batch_0016,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+batch_0016,batch_0016,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+batch_0016,batch_0016,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 95,923."
+batch_0016,batch_0016,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0016.
+batch_0016,batch_0016,DQ_IDEMPOTENCY,PASS,0,batch_0016 has not previously been processed.
+duplicate_events,batch_0003,FILE_READABLE,PASS,0,Parquet file opened successfully.
+duplicate_events,batch_0003,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+duplicate_events,batch_0003,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+duplicate_events,batch_0003,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+duplicate_events,batch_0003,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+duplicate_events,batch_0003,DQ_UNIQUE_EVENT_ID,FAIL,250,250 duplicate event_id values detected.
+duplicate_events,batch_0003,DQ_ROW_COUNT,FAIL,250,"Expected 100,000 rows, received 100,250."
+duplicate_events,batch_0003,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0003.
+duplicate_events,batch_0003,DQ_IDEMPOTENCY,PASS,0,batch_0003 has not previously been processed.
+missing_case_id,batch_0005,FILE_READABLE,PASS,0,Parquet file opened successfully.
+missing_case_id,batch_0005,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+missing_case_id,batch_0005,DQ_NOT_NULL_CASE_ID,FAIL,100,100 rows contain NULL in case_id.
+missing_case_id,batch_0005,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+missing_case_id,batch_0005,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+missing_case_id,batch_0005,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+missing_case_id,batch_0005,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+missing_case_id,batch_0005,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0005.
+missing_case_id,batch_0005,DQ_IDEMPOTENCY,PASS,0,batch_0005 has not previously been processed.
+missing_timestamp,batch_0007,FILE_READABLE,PASS,0,Parquet file opened successfully.
+missing_timestamp,batch_0007,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+missing_timestamp,batch_0007,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+missing_timestamp,batch_0007,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+missing_timestamp,batch_0007,DQ_NOT_NULL_EVENT_TIMESTAMP,FAIL,50,50 rows contain NULL in event_timestamp.
+missing_timestamp,batch_0007,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+missing_timestamp,batch_0007,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+missing_timestamp,batch_0007,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0007.
+missing_timestamp,batch_0007,DQ_IDEMPOTENCY,PASS,0,batch_0007 has not previously been processed.
+schema_drift,batch_0009,FILE_READABLE,PASS,0,Parquet file opened successfully.
+schema_drift,batch_0009,DQ_SCHEMA_COLUMNS,FAIL,2,Missing columns: activity | Unexpected columns: activity_name
+schema_drift,batch_0009,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+schema_drift,batch_0009,DQ_NOT_NULL_ACTIVITY,SKIPPED,0,Column 'activity' is unavailable because schema validation failed.
+schema_drift,batch_0009,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+schema_drift,batch_0009,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+schema_drift,batch_0009,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+schema_drift,batch_0009,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0009.
+schema_drift,batch_0009,DQ_IDEMPOTENCY,PASS,0,batch_0009 has not previously been processed.
+duplicate_batch_delivery,batch_0011,FILE_READABLE,PASS,0,Parquet file opened successfully.
+duplicate_batch_delivery,batch_0011,DQ_SCHEMA_COLUMNS,PASS,0,Schema matches baseline.
+duplicate_batch_delivery,batch_0011,DQ_NOT_NULL_CASE_ID,PASS,0,Column 'case_id' contains no NULL values.
+duplicate_batch_delivery,batch_0011,DQ_NOT_NULL_ACTIVITY,PASS,0,Column 'activity' contains no NULL values.
+duplicate_batch_delivery,batch_0011,DQ_NOT_NULL_EVENT_TIMESTAMP,PASS,0,Column 'event_timestamp' contains no NULL values.
+duplicate_batch_delivery,batch_0011,DQ_UNIQUE_EVENT_ID,PASS,0,event_id is unique.
+duplicate_batch_delivery,batch_0011,DQ_ROW_COUNT,PASS,0,"Row count matches expected value: 100,000."
+duplicate_batch_delivery,batch_0011,DQ_BATCH_ID,PASS,0,Batch identifier is batch_0011.
+duplicate_batch_delivery,batch_0011,DQ_IDEMPOTENCY,FAIL,1,batch_0011 has already been processed.
+corrupted_parquet,batch_0012,FILE_READABLE,FAIL,1,ArrowInvalid: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.

@@ -1,0 +1,7 @@
+dataset_name,dataset_type,source_batch_id,overall_status,expected_rule,expected_failure_detected,failed_rule_count,failed_rules
+duplicate_events,controlled_failure,batch_0003,FAIL,DQ_UNIQUE_EVENT_ID,True,2,"DQ_UNIQUE_EVENT_ID, DQ_ROW_COUNT"
+missing_case_id,controlled_failure,batch_0005,FAIL,DQ_NOT_NULL_CASE_ID,True,1,DQ_NOT_NULL_CASE_ID
+missing_timestamp,controlled_failure,batch_0007,FAIL,DQ_NOT_NULL_EVENT_TIMESTAMP,True,1,DQ_NOT_NULL_EVENT_TIMESTAMP
+schema_drift,controlled_failure,batch_0009,FAIL,DQ_SCHEMA_COLUMNS,True,1,DQ_SCHEMA_COLUMNS
+duplicate_batch_delivery,controlled_failure,batch_0011,FAIL,DQ_IDEMPOTENCY,True,1,DQ_IDEMPOTENCY
+corrupted_parquet,controlled_failure,batch_0012,FAIL,FILE_READABLE,True,1,FILE_READABLE

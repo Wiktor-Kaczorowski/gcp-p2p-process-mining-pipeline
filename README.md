@@ -22,13 +22,17 @@ BPI Challenge 2019 → Python → GCS → BigQuery → Looker Studio
 ## Project status
 
 - [x] Local environment configuration
-- [X] Source-data profiling
-- [ ] Event-log standardization
-- [X] Incremental batch generation
-- [ ] Google Cloud ingestion
-- [ ] Data-quality framework
-- [ ] Analytical model
-- [ ] Dashboard
+- [x] Source-data profiling
+- [x] Event-log standardization
+- [x] Incremental batch generation
+- [x] Controlled data-quality scenarios
+- [x] Automated batch validation
+- [ ] Google Cloud Storage ingestion
+- [ ] BigQuery raw layer
+- [ ] BigQuery staging layer
+- [ ] Data-quality monitoring
+- [ ] Analytics model
+- [ ] Looker Studio dashboard
 
 ## Data source
 
@@ -53,3 +57,20 @@ and processing status.
 
 This structure will be used to simulate incremental ingestion into
 Google Cloud Storage and BigQuery.
+
+## Automated validation
+
+Every ingestion batch is validated before cloud ingestion.
+
+The validation framework checks:
+
+- file readability
+- schema consistency
+- mandatory process-mining fields
+- event uniqueness
+- row counts
+- batch identifiers
+- idempotency
+
+The validation suite is tested against 16 clean batches and
+6 controlled failure scenarios.
