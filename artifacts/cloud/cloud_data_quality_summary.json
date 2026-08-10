@@ -1,0 +1,9 @@
+{
+  "run_id": "60e18d7f-bc03-433a-ab8c-232be3a65114",
+  "run_timestamp_utc": "2026-08-10T13:23:10.672700+00:00",
+  "rules_executed": 9,
+  "passed_rules": 7,
+  "warning_rules": 2,
+  "failed_rules": 0,
+  "overall_status": "WARN"
+}

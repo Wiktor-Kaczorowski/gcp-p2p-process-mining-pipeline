@@ -1,0 +1,10 @@
+run_id,run_timestamp_utc,rule_id,rule_name,severity,status,failed_rows,total_rows,failure_rate,message
+60e18d7f-bc03-433a-ab8c-232be3a65114,2026-08-10 13:23:10.672700+00:00,DQ_BATCH_LOAD_RECONCILIATION,Loaded batch row counts match expected row counts,CRITICAL,PASS,0,16,0.0,0 of 16 ingestion batches fail row-count reconciliation.
+60e18d7f-bc03-433a-ab8c-232be3a65114,2026-08-10 13:23:10.672700+00:00,DQ_CASE_RECONCILIATION,STAGING event cases reconcile with case table,CRITICAL,PASS,0,251734,0.0,Event-log cases: 251734; case-table rows: 251734.
+60e18d7f-bc03-433a-ab8c-232be3a65114,2026-08-10 13:23:10.672700+00:00,DQ_MANDATORY_EVENT_FIELDS,Mandatory process-mining fields are populated,CRITICAL,PASS,0,1595923,0.0,Missing case_id: 0; activity: 0; timestamp: 0.
+60e18d7f-bc03-433a-ab8c-232be3a65114,2026-08-10 13:23:10.672700+00:00,DQ_NEGATIVE_PROCESS_DURATION,Inter-event durations are non-negative,CRITICAL,PASS,0,1595923,0.0,0 events contain negative inter-event durations.
+60e18d7f-bc03-433a-ab8c-232be3a65114,2026-08-10 13:23:10.672700+00:00,DQ_PROCESS_SEQUENCE_INTEGRITY,Event sequence is complete within each case,CRITICAL,PASS,0,251734,0.0,0 cases contain invalid process-event sequences.
+60e18d7f-bc03-433a-ab8c-232be3a65114,2026-08-10 13:23:10.672700+00:00,DQ_RAW_EVENT_ID_UNIQUE,RAW event identifiers are unique,CRITICAL,PASS,0,1595923,0.0,RAW contains 1595923 rows and 1595923 unique event IDs.
+60e18d7f-bc03-433a-ab8c-232be3a65114,2026-08-10 13:23:10.672700+00:00,DQ_RAW_STAGING_ROW_RECONCILIATION,RAW and STAGING row counts reconcile,CRITICAL,PASS,0,1595923,0.0,RAW rows: 1595923; STAGING rows: 1595923.
+60e18d7f-bc03-433a-ab8c-232be3a65114,2026-08-10 13:23:10.672700+00:00,MON_MISSING_RESOURCE,Missing event resources are monitored,WARNING,WARN,399090,1595923,0.2500684556836389,399090 events have no resource identifier.
+60e18d7f-bc03-433a-ab8c-232be3a65114,2026-08-10 13:23:10.672700+00:00,MON_TIMESTAMP_QUALITY,Known timestamp-quality anomalies are monitored,WARNING,WARN,320,1595923,0.0002005109269056214,320 events are outside the expected timestamp period.

@@ -21,17 +21,16 @@ BPI Challenge 2019 → Python → GCS → BigQuery → Looker Studio
 
 ## Project status
 
-- [x] Local environment configuration
 - [x] Source-data profiling
 - [x] Event-log standardization
 - [x] Incremental batch generation
 - [x] Controlled data-quality scenarios
 - [x] Automated batch validation
-- [X] Google Cloud Storage ingestion
-- [ ] BigQuery raw layer
-- [ ] BigQuery staging layer
-- [ ] Data-quality monitoring
-- [ ] Analytics model
+- [x] Google Cloud Storage ingestion
+- [x] BigQuery raw layer
+- [x] BigQuery staging layer
+- [x] Cloud data-quality monitoring
+- [ ] Process analytics model
 - [ ] Looker Studio dashboard
 
 ## Data source
