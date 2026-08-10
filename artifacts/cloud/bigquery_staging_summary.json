@@ -1,0 +1,18 @@
+{
+  "project_id": "p2p-process-mining-pipeline",
+  "dataset": "staging",
+  "build_timestamp_utc": "2026-08-10T11:45:00.108756+00:00",
+  "raw_rows": 1595923,
+  "staging_rows": 1595923,
+  "unique_event_ids": 1595923,
+  "event_case_count": 251734,
+  "case_table_rows": 251734,
+  "activity_count": 42,
+  "missing_case_ids": 0,
+  "missing_activities": 0,
+  "missing_timestamps": 0,
+  "row_reconciliation_success": true,
+  "case_reconciliation_success": true,
+  "mandatory_fields_success": true,
+  "staging_build_success": true
+}
