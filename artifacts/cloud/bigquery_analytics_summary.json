@@ -1,7 +1,7 @@
 {
   "project_id": "p2p-process-mining-pipeline",
   "dataset": "analytics",
-  "build_timestamp_utc": "2026-08-10T13:32:26.658004+00:00",
+  "build_timestamp_utc": "2026-08-10T13:37:29.896904+00:00",
   "staging_case_count": 251734,
   "case_kpi_rows": 251734,
   "unique_cases": 251734,
