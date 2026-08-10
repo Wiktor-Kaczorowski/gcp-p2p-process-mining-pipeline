@@ -30,7 +30,7 @@ BPI Challenge 2019 → Python → GCS → BigQuery → Looker Studio
 - [x] BigQuery raw layer
 - [x] BigQuery staging layer
 - [x] Cloud data-quality monitoring
-- [ ] Process analytics model
+- [X] Process analytics model
 - [ ] Looker Studio dashboard
 
 ## Data source
