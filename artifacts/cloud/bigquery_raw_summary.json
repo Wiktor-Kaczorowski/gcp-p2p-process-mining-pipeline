@@ -1,0 +1,17 @@
+{
+  "project_id": "p2p-process-mining-pipeline",
+  "dataset": "raw",
+  "table": "events",
+  "run_id": "f869f8f7-ecbc-4327-9d90-4495e10bef3e",
+  "batches_processed": 16,
+  "successful_batches": 16,
+  "status_counts": {
+    "SKIPPED": 16
+  },
+  "total_rows": 1595923,
+  "unique_event_ids": 1595923,
+  "unique_cases": 251734,
+  "unique_activities": 42,
+  "ingestion_batches": 16,
+  "raw_load_success": true
+}
